@@ -2,7 +2,13 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramstha99&label=Profile%20views&color=0e75b6&style=flat" alt="bikramstha99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashstha404&label=Profile%20views&color=0e75b6&style=flat" alt="bikashstha404" /> </p>
 
+- 🌱 I’m currently learning **Angular and Oracle**
+
+- 📫 How to reach me **stha.bikram99@gmail.com**
+
+<h3 align="left">Connect with me: https://www.linkedin.com/in/bikram-shrestha-84a93b183/</h3>
 <p align="left">
 </p>
 
