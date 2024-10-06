@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Shrestha</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-- 🌱 I’m currently learning **Angular and Oracle**
+- 🌱 I’m currently learning **.NetCore, AngularJs and Oracle**
 
 - 📫 How to reach me **stha.bikram999@gmail.com**
 
