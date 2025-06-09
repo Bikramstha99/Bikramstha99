@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NetCore, Angular, Oracle **, SSMS
 
-- 📫 How to reach me **stha.bikram999@gmail.com*..
+- 📫 How to reach me **stha.bikram999@gmail.com*.
 
 <h3 align="left">Connect with me on Linkedin: https://www.linkedin.com/in/bikram-shrestha-84a93b183/</h3>
 </p>
