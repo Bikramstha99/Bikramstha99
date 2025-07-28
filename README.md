@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Shrestha and currently woking at Infinite  Nepal</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **.NetCore, Angular, Oracle **, SSMS
+- 🌱 I’m currently learning **.NetCore, Angular, Oracle **, SSMS.
 
 - 📫 How to reach me **stha.bikram999@gmail.com*.
 <h3 align="left">Connect with me on Linkedin: https://www.linkedin.com/in/bikram-shrestha-84a93b183/</h3>
